@@ -78,11 +78,9 @@ where t is a certain key point, Mp' is the set of key point we take into conside
 ## Training Details
 For better inference performance, model G and G2 should be trained with 200 epoches, while model G1 and U net should be trained with 20 epoches.
 
-## License
-The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 
 ## Citation
-If you use our code or models in your research, please cite with:
+If you use our code or models in your research, please cite with:-
 ```
 @InProceedings{Yang_2020_CVPR,
 author = {Yang, Han and Zhang, Ruimao and Guo, Xiaobao and Liu, Wei and Zuo, Wangmeng and Luo, Ping},
